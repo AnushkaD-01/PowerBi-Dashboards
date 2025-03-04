@@ -21,19 +21,3 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query and MS Excel for data transformation 
 
-Dashboard 2 - Maven Market Power BI Dashboard
-
-This Power BI dashboard provides an in-depth analysis of Maven Market, a retail and e-commerce business. It helps track sales trends, customer purchasing behavior, and product performance to support data-driven decision-making.
-
-![Dashboard Preview](Preview.JPG)
-
-📈 Key Insights
-✅ Sales Performance – Revenue trends, regional sales distribution, and year-over-year growth.
-✅ Customer Behavior – Customer segmentation, purchase frequency, and average order value.
-✅ Product Insights – Best-selling products, category-wise sales, and profitability analysis.
-✅ Market Trends – Seasonal trends, demand forecasting, and marketing impact.
-
-🔧 Tools & Technologies
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query and MS Excel for data transformation 
